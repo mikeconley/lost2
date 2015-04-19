@@ -12,6 +12,10 @@ The executable shipped with two pieces of text - a Help.txt, and a Walkthru.txt 
 
 On behalf of the group of pre-teens who made this game... uh, enjoy?
 
+# Play it right now
+
+[Here it is.](https://mikeconley.github.io/Lost2/)
+
 # Readme.txt
 
     ********************************LOST 2V1.1 DEMO***************
