@@ -14,7 +14,7 @@ On behalf of the group of pre-teens who made this game... uh, enjoy?
 
 # Play it right now
 
-[Here it is.](https://mikeconley.github.io/lost2/)
+[Here it is.](https://mikeconley.github.io/lost2/) (You're gonna want to go fullscreen.)
 
 # Readme.txt
 
