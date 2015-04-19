@@ -1,18 +1,18 @@
 # Lost 2 v1.1
 
-This is a game I made with some friends back in 1999. It's pretty brutal - the graphics blow, the story and dialog are non-sensical, the interface is really rough... but I recall it being a labour of love.
+This is a game I made with some friends back in 1999. It's pretty brutal &mdash; the graphics blow, the story and dialogue are nonsensical, the interface is really rough &hellip; but I recall it being a labour of love.
 
 We called ourselves Groovy Concepts Ltd. We thought we were the coolest. My screen name was The_Specialist (often just shortened to T_S). I'm cringing so hard right now.
 
-The game was written in QBasic. I used the QBasic 4.5 compiler. For better or worse, I have used [Emscripten](http://emscripten.org/) and [em-dosbox](https://github.com/dreamlayers/em-dosbox/) to port them to the web. They are otherwise unchanged - warts and all.
+The game was written in QBasic. I used the QBasic 4.5 compiler. For better or worse, I have used [Emscripten](http://emscripten.org/) and [em-dosbox](https://github.com/dreamlayers/em-dosbox/) to port them to the web. They are otherwise unchanged &mdash; warts and all.
 
-If and when I find the source code (I'm going to search a stack of old floppies back at my parents place for it) I'll post it, and probably do a review of the code on [my blog](http://www.mikeconley.ca).
+If and when I find the source code (I'm going to search a stack of old floppies back at my parents' place for it) I'll post it, and probably do a review of the code on [my blog](http://www.mikeconley.ca).
 
-The executable shipped with two pieces of text - a Help.txt, and a Walkthru.txt (sic). I don't remember exactly why we shipped a walkthrough with the game - but maybe it's because we thought that'd be the only way to play through to the end, since the puzzle logic makes Tommy Wiseau look like Mr. Spock. I've appended the text from both files to this document. Warts and all.
+The executable shipped with two pieces of text &mdash; a Help.txt, and a Walkthru.txt (sic). I don't remember exactly why we shipped a walkthrough with the game &mdash; but maybe it's because we thought that'd be the only way to play through to the end, since the puzzle logic makes Tommy Wiseau look like Mr. Spock. I've appended the text from both files to this document. Warts and all.
 
-On behalf of the group of pre-teens who made this game... uh, enjoy?
+On behalf of the group of pre-teens who made this game &hellip; uh, enjoy?
 
-# Play it right now
+# Play right now
 
 [Here it is.](https://mikeconley.github.io/lost2/) (You're gonna want to go fullscreen.)
 
