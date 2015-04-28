@@ -6,7 +6,7 @@ We called ourselves Groovy Concepts Ltd. We thought we were the coolest. My scre
 
 The game was written in QBasic. I used the QBasic 4.5 compiler. For better or worse, I have used [Emscripten](http://emscripten.org/) and [em-dosbox](https://github.com/dreamlayers/em-dosbox/) to port them to the web. They are otherwise unchanged &mdash; warts and all.
 
-If and when I find the source code (I'm going to search a stack of old floppies back at my parents' place for it) I'll post it, and probably do a review of the code on [my blog](http://www.mikeconley.ca).
+[I eventually found the source code for this thing](https://github.com/mikeconley/lost2/blob/master/src/LOST2.BAS) in a pile of floppies at my parents place. The code is horrendous, but I find it interesting to see where I came from. I'll probably do a review of the code on [my blog](http://www.mikeconley.ca) in the coming weeks, and then I'll link to it from here.
 
 The executable shipped with two pieces of text &mdash; a Help.txt, and a Walkthru.txt (sic). I don't remember exactly why we shipped a walkthrough with the game &mdash; but maybe it's because we thought that'd be the only way to play through to the end, since the puzzle logic makes Tommy Wiseau look like Mr. Spock. I've appended the text from both files to this document. Warts and all.
 
